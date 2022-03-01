@@ -1,0 +1,5 @@
+env/*
+media/*
+myproj/__pycache__/*
+myfileapp/__pycache__/*
+myfileapp/migrations/*
